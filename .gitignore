@@ -1,0 +1,18 @@
+/LibraryManagementSystemAPI/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.LibraryManagementSystemAPI.iml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+LibraryManagementSystemAPI/bin
+LibraryManagementSystemAPI/obj
+/LibraryManagementSystemAPI/appsettings.Development.json
+/LibraryManagementSystemAPI/appsettings.json
